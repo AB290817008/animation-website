@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 27 Copy 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="152.026533%" y2="28.2975579%" id="linearGradient-1">
+            <stop stop-color="#359EF6" offset="0%"></stop>
+            <stop stop-color="#025CDD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Details" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Certificates" transform="translate(-1070.000000, -1512.000000)">
+            <g id="Title-Section-Copy-2" transform="translate(273.000000, 339.000000)">
+                <g id="Group-27-Copy-9" transform="translate(799.000000, 1175.000000)">
+                    <circle id="Oval-Copy-17" stroke="url(#linearGradient-1)" stroke-width="2" cx="15" cy="15" r="16"></circle>
+                    <circle id="Oval-Copy-18" fill="url(#linearGradient-1)" cx="15" cy="15" r="4"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
