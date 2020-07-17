@@ -1,0 +1,9 @@
+
+.buttons{
+
+    display: flex;
+    border: 2px solid aqua;
+    border-radius: 5px;
+    background-color: white;
+    
+}

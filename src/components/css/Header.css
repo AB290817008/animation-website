@@ -53,6 +53,8 @@ header .menu,
 header .close{
     cursor: pointer;
     display: none;
+    
+
 }
 @media (max-width: 650px){
     header ul{
@@ -65,19 +67,28 @@ header .close{
         justify-content: space-around;
         align-items: center;
         flex-direction: column;
-        background: white;
+        background: black;
+        color: #fff !important;
         z-index: 99;
         opacity: 0.97;
         transition: 0.5s linear;
+
     }
     header .menu,
     header .close{
         display: block;
+        color: white !important;
+        background-color: green !important;
+        border-color: green;
+
     }
     header .close{
         position: absolute;
         top:10px;
         right: 20px;
+        text-decoration-color: #fff !important;
+        color: #fff !important;
+        
     }
     header ul.toggle{
         left: 0;

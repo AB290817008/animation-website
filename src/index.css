@@ -26,5 +26,7 @@ section{
 
 body{
 
-  background: rgb(36, 48,102) !important; 
+  /* background: rgb(36, 48,102) !important;  */
+  background-color: black !important;
 }
+
