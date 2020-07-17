@@ -10,7 +10,8 @@ import Zero from './components/Zero'
 import Partnership from './components/Partnership'
 import Security from './components/Security'
 import Crypto from './components/Crypto'
-import Footer from './components/Footer'
+import FooterBye from './components/FooterBye';
+// import Footer1 from './components/Footer1'
 
 class App extends React.Component{
   render(){
@@ -27,7 +28,7 @@ class App extends React.Component{
              <Partnership/>
              <Security/>
              <Crypto/>
-             <Footer/>
+             <FooterBye/>
           </Router>
         </div>
       </DataProvider>
