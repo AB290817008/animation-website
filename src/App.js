@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter as Router} from 'react-router-dom'
+import {BrowserRouter} from 'react-router-dom'
 import Header from './components/Header'
 import Section from './components/Section'
 import {DataProvider} from './components/Context'
@@ -18,7 +18,7 @@ class App extends React.Component{
     return(
       <DataProvider>
         <div className="app">
-          <Router>
+          <BrowserRouter>
             <Header />
             <Section />
             <Animation/>
@@ -29,7 +29,7 @@ class App extends React.Component{
              <Security/>
              <Crypto/>
              <FooterBye/>
-          </Router>
+          </BrowserRouter>
         </div>
       </DataProvider>
     );

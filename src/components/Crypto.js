@@ -13,7 +13,7 @@ export default function Crypto() {
                 <button style={{ border: '1px solid green', color: 'black', cursor: 'pointer', borderRadius: '25px', background: 'aquamarine', minWidth: '351px', minHeight: '40px', marginTop: '50px', }} className='cryptogif'>Learn More</button>
             </div>
             <div className='pshipC2'>
-                <img src={require('./ezgif.com-crop (3).gif')} style={{ position: 'relative', top: '-50px', right: '800px', height: '400px' }} className></img>
+                <img src={require('./ezgif.com-crop (3).gif')} style={{ position: 'relative', top: '-50px', right: '800px', height: '400px' }} ></img>
             </div>
             <div className='footer'>
 
