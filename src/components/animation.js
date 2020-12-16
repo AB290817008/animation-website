@@ -1,18 +1,18 @@
 import React from 'react'
 import './css/Animation.css'
-import sys from './../components/svg/syscoin-hero-v2.svg';
-import vidAnim from './../assets/videos-animations/syscoin-hero-animation-o.mp4'
-import {
-    Player
-    // ControlBar,
-    // ReplayControl,
-    // ForwardControl,
-    // CurrentTimeDisplay,
-    // TimeDivider,
-    // PlaybackRateMenuButton,
-    // VolumeMenuButton
-} from 'video-react';
-import Abc from './abc'
+// import sys from './../components/svg/syscoin-hero-v2.svg';
+// import vidAnim from './../assets/videos-animations/syscoin-hero-animation-o.mp4'
+// import {
+//     Player
+//     // ControlBar,
+//     // ReplayControl,
+//     // ForwardControl,
+//     // CurrentTimeDisplay,
+//     // TimeDivider,
+//     // PlaybackRateMenuButton,
+//     // VolumeMenuButton
+// } from 'video-react';
+// import Abc from './abc'
 import './ezgif.com-video-to-gif.gif';
 
 
@@ -26,7 +26,7 @@ export default function Animation() {
         <div className='animation'>
             <div className='anim-img'>
                 <div className='anim-vid'>
-                    <img src={require('./ezgif.com-video-to-gif.gif')} className='gif1'></img>
+                    <img src={require('./ezgif.com-video-to-gif.gif')} className='gif1' alt="partnershipImage"/>
                     {/* <video id='hero' className='moving-autoplay' muted playsInline loop autoPlay style={{display:'none'}} controls={true} >
                         <source src={vidAnim} type='video/mp4'></source>
                     </video>

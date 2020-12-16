@@ -6,7 +6,7 @@ export default function Security() {
 		<div className="animation">
 			<div className="anim-img">
 				<div className="anim-vid">
-					<img src={require('../assets/images/bridge1.png')} className="gif1" />
+					<img src={require('../assets/images/bridge1.png')} className="gif1" alt="partnershipImage"/>
 
 					<h4 className="text1">
 						Maintain Security of Syscoin is merge-mined with Bitcoin meaning Bitcoin miners can
@@ -21,8 +21,8 @@ export default function Security() {
 }
 
 //                 <button className="security-button" style={{border:'1px solid green',color:'black',cursor:'pointer',borderRadius:'25px',background:'aquamarine',minWidth:'351px',minHeight:'40px',marginTop:'50px',}}>Learn More</button>
-{
+
 	/* <h1 className="security-h1" style={{ marginTop: '25px', color: 'white' }}>
 						
 					</h1> */
-}
+

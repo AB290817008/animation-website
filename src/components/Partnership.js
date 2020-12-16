@@ -10,7 +10,7 @@ export default function Partnership() {
 					<img
 						src={require('./ezgif.com-video-to-gif (1).gif')}
 						className="gif1"
-						
+						alt="partnershipImage"
 					/>
 
 					<h4 className="text1">
@@ -23,11 +23,11 @@ export default function Partnership() {
 	);
 }
 
-{
-	/* <h1 style={{ marginTop: '25px', color: 'white' }}></h1> */
-}
 
-{
+	/* <h1 style={{ marginTop: '25px', color: 'white' }}></h1> */
+
+
+
 	/* <button
 					className="pship1button"
 					style={{
@@ -43,4 +43,4 @@ export default function Partnership() {
 				>
 					Learn More
 				</button> */
-}
+

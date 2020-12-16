@@ -6,7 +6,7 @@ export default function Zero() {
 		<div className="animation">
 			<div className="anim-img">
 				<div className="anim-vid">
-					<img src={require('./ezgif.com-crop (1).gif')} className="gif1" />
+					<img src={require('./ezgif.com-crop (1).gif')} className="gif1" alt="partnershipImage" />
 					<h4 className="text1">
 						Zero Confirmation Transaction. Transferring funds or ownership of a token uses the Z-DAG
 						protocol.

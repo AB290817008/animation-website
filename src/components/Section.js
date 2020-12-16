@@ -4,8 +4,8 @@ import Details from './section/Details'
 import {Route} from "react-router-dom"
 import Cart from './section/Cart'
 import Payment from './section/Payment'
-import Contact from './Contact'
-import About from './About'
+// import Contact from './Contact'
+// import About from './About'
 
 
 export class Section extends Component {

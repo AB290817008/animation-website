@@ -1,6 +1,6 @@
 import React from 'react';
 import './css/Crypto.css';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 // import './css/Header.css'
 
 export default function Crypto() {
@@ -40,7 +40,7 @@ export default function Crypto() {
 		<div className="animation">
 			<div className="anim-img">
 				<div className="anim-vid">
-					<img src={require('./ezgif.com-crop (3).gif')} className="gif1" />
+					<img src={require('./ezgif.com-crop (3).gif')} className="gif1" alt="partnershipImage"/>
 
 					<h4 className="text1">
 						Crypto Tokens allow anyone to quickly create their own cryptocurrency token on Syscoin Platform.
