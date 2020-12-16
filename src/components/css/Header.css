@@ -93,4 +93,7 @@ header .close{
     header ul.toggle{
         left: 0;
     }
+    .crypto-button{
+        max-width: 150px !important;
+    }
 }
